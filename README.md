@@ -1,5 +1,5 @@
 # MIR
-MIR Project
+##MIR Project - Progetto per la promozione di tematiche sociali
 
 Country: Italy
 
